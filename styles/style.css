@@ -3,3 +3,9 @@ html {
 }
 
 /* Votre CSS ci-dessous */
+
+p {
+  background-color: grey;
+  height : 100px;
+  width : 250px;
+}
